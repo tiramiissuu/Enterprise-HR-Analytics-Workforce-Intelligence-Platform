@@ -1,0 +1,434 @@
+recruitment_date,department_name,job_title,job_level,city,state,country,applications_count,interviews_count,offers_count,hires_count,recruitment_cost,avg_time_to_hire_days
+2022-01-31,Legal,HR Executive,Associate,Kolkata,West Bengal,India,129,12,3,0,118095.2,41.28
+2022-01-31,Marketing,Customer Support Associate,Associate,Kolkata,West Bengal,India,50,28,9,5,270870.88,28.76
+2022-01-31,Information Technology,Senior Software Engineer,Senior,Bengaluru,Karnataka,India,220,20,4,4,172587.17,71.93
+2022-01-31,Marketing,HR Executive,Associate,Mumbai,Maharashtra,India,315,37,25,7,129977.29,16.36
+2022-01-31,Customer Support,Software Engineer,Associate,Hyderabad,Telangana,India,143,22,8,0,301363.34,74.24
+2022-01-31,Finance,Sales Executive,Associate,Mumbai,Maharashtra,India,208,87,12,8,276409.03,24.89
+2022-01-31,Customer Support,Sales Executive,Associate,Gurugram,Haryana,India,296,65,20,5,211996.78,44.37
+2022-01-31,Sales,Senior Software Engineer,Senior,Bengaluru,Karnataka,India,228,14,9,5,33534.83,33.17
+2022-01-31,Human Resources,HR Manager,Manager,Gurugram,Haryana,India,98,75,8,3,53880.13,58.09
+2022-01-31,Operations,Customer Support Associate,Associate,Pune,Maharashtra,India,342,15,11,1,152977.75,21.69
+2022-01-31,Legal,Operations Executive,Associate,Gurugram,Haryana,India,392,15,12,0,246929.69,14.86
+2022-01-31,Sales,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,202,46,15,8,96625.71,22.43
+2022-02-28,Human Resources,Operations Executive,Associate,Pune,Maharashtra,India,348,63,13,7,141149.93,48.52
+2022-02-28,Finance,Operations Executive,Associate,Chennai,Tamil Nadu,India,297,52,14,4,68174.59,27.1
+2022-02-28,Operations,Data Engineer,Senior,Gurugram,Haryana,India,228,87,12,0,220293.98,38.16
+2022-02-28,Human Resources,HR Manager,Manager,Chennai,Tamil Nadu,India,115,17,16,3,159896.87,57.38
+2022-02-28,Customer Support,Legal Associate,Associate,Hyderabad,Telangana,India,215,86,4,4,27351.84,73.12
+2022-02-28,Operations,Data Analyst,Associate,Pune,Maharashtra,India,303,32,19,6,280231.22,52.22
+2022-02-28,Operations,Legal Associate,Associate,Bengaluru,Karnataka,India,286,43,22,6,301282.28,16.3
+2022-02-28,Legal,Marketing Specialist,Associate,Pune,Maharashtra,India,370,29,20,6,186476.36,39.6
+2022-02-28,Information Technology,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,117,51,17,7,349150.94,64.47
+2022-02-28,Operations,Senior Software Engineer,Senior,Mumbai,Maharashtra,India,84,61,13,7,134949.02,15.99
+2022-02-28,Sales,Software Engineer,Associate,Gurugram,Haryana,India,310,20,4,2,290253.46,28.31
+2022-02-28,Legal,Data Engineer,Senior,Gurugram,Haryana,India,325,57,2,0,213797.45,70.93
+2022-02-28,Sales,Data Analyst,Associate,Gurugram,Haryana,India,233,57,2,0,297096.57,62.71
+2022-03-31,Marketing,HR Executive,Associate,Kolkata,West Bengal,India,196,50,25,7,271626.33,38.87
+2022-03-31,Marketing,HR Executive,Associate,Chennai,Tamil Nadu,India,102,54,12,6,136494.75,45.6
+2022-03-31,Legal,Sales Manager,Manager,Pune,Maharashtra,India,37,16,7,2,216960.0,49.65
+2022-03-31,Customer Support,Data Analyst,Associate,Bengaluru,Karnataka,India,246,29,10,0,46645.28,53.43
+2022-03-31,Customer Support,Data Engineer,Senior,Pune,Maharashtra,India,383,28,10,4,27515.16,30.79
+2022-03-31,Information Technology,Legal Associate,Associate,Chennai,Tamil Nadu,India,268,24,9,7,282476.09,29.71
+2022-03-31,Human Resources,Data Analyst,Associate,Bengaluru,Karnataka,India,258,61,21,0,113320.84,74.42
+2022-03-31,Operations,HR Executive,Associate,Pune,Maharashtra,India,347,32,12,4,162213.4,42.2
+2022-03-31,Marketing,HR Manager,Manager,Hyderabad,Telangana,India,327,87,5,0,136227.59,17.79
+2022-03-31,Human Resources,Sales Executive,Associate,Gurugram,Haryana,India,50,11,11,6,227588.41,41.64
+2022-03-31,Human Resources,Financial Analyst,Associate,Pune,Maharashtra,India,359,23,17,8,201976.8,32.06
+2022-04-30,Human Resources,Data Engineer,Senior,Hyderabad,Telangana,India,136,22,14,7,159320.41,20.46
+2022-04-30,Customer Support,HR Executive,Associate,Hyderabad,Telangana,India,44,34,15,6,196050.4,33.78
+2022-04-30,Customer Support,Data Engineer,Senior,Pune,Maharashtra,India,322,28,20,1,163645.7,52.69
+2022-04-30,Marketing,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,366,81,7,7,105257.49,56.17
+2022-04-30,Customer Support,Financial Analyst,Associate,Hyderabad,Telangana,India,112,59,15,0,283466.46,46.0
+2022-04-30,Marketing,Senior Software Engineer,Senior,Gurugram,Haryana,India,405,42,8,2,267613.61,59.45
+2022-04-30,Marketing,Software Engineer,Associate,Chennai,Tamil Nadu,India,276,12,5,4,171584.87,69.86
+2022-04-30,Legal,Sales Executive,Associate,Bengaluru,Karnataka,India,346,73,25,5,228905.27,67.98
+2022-04-30,Operations,Operations Manager,Manager,Delhi,Delhi,India,382,45,2,0,55865.23,33.57
+2022-04-30,Data Analytics,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,250,15,14,3,231514.2,26.47
+2022-04-30,Customer Support,Customer Support Associate,Associate,Delhi,Delhi,India,114,49,3,3,274683.83,19.77
+2022-04-30,Data Analytics,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,367,63,22,7,85985.29,72.49
+2022-04-30,Finance,Legal Associate,Associate,Delhi,Delhi,India,220,81,3,0,293030.51,60.92
+2022-05-31,Information Technology,Software Engineer,Associate,Kolkata,West Bengal,India,244,80,9,0,215959.12,51.72
+2022-05-31,Human Resources,Data Engineer,Senior,Hyderabad,Telangana,India,396,80,24,2,267089.38,45.78
+2022-05-31,Customer Support,Sales Manager,Manager,Bengaluru,Karnataka,India,121,64,23,0,29803.0,42.81
+2022-05-31,Finance,Data Engineer,Senior,Bengaluru,Karnataka,India,233,16,11,4,28837.42,48.47
+2022-05-31,Human Resources,Marketing Specialist,Associate,Gurugram,Haryana,India,388,26,13,7,210883.36,33.5
+2022-05-31,Sales,Finance Manager,Manager,Kolkata,West Bengal,India,177,60,14,7,254627.84,47.71
+2022-05-31,Operations,Finance Manager,Manager,Mumbai,Maharashtra,India,113,11,6,4,209051.75,71.58
+2022-05-31,Operations,Customer Support Associate,Associate,Kolkata,West Bengal,India,194,43,16,3,101327.35,51.29
+2022-05-31,Human Resources,Finance Manager,Manager,Kolkata,West Bengal,India,410,78,10,4,282177.4,63.64
+2022-05-31,Operations,HR Manager,Manager,Mumbai,Maharashtra,India,153,14,8,7,127818.73,21.12
+2022-05-31,Finance,Sales Executive,Associate,Delhi,Delhi,India,128,78,22,4,216927.69,15.01
+2022-05-31,Sales,Operations Manager,Manager,Chennai,Tamil Nadu,India,47,14,5,2,96683.06,57.14
+2022-05-31,Marketing,Marketing Specialist,Associate,Bengaluru,Karnataka,India,339,42,21,7,129981.56,27.38
+2022-05-31,Human Resources,Finance Manager,Manager,Chennai,Tamil Nadu,India,156,73,3,1,212500.73,74.65
+2022-05-31,Customer Support,Data Engineer,Senior,Chennai,Tamil Nadu,India,64,8,2,0,326662.36,15.67
+2022-05-31,Sales,Sales Manager,Manager,Kolkata,West Bengal,India,225,83,10,4,310705.59,70.76
+2022-05-31,Operations,Operations Executive,Associate,Gurugram,Haryana,India,155,65,5,0,205922.03,30.96
+2022-06-30,Information Technology,Software Engineer,Associate,Delhi,Delhi,India,152,48,24,5,252081.38,55.85
+2022-06-30,Marketing,Data Engineer,Senior,Mumbai,Maharashtra,India,234,87,10,5,71663.98,44.9
+2022-06-30,Information Technology,Operations Manager,Manager,Mumbai,Maharashtra,India,56,43,12,3,213206.78,58.4
+2022-06-30,Operations,Data Analyst,Associate,Mumbai,Maharashtra,India,67,12,3,0,91408.55,46.28
+2022-06-30,Information Technology,Senior Software Engineer,Senior,Chennai,Tamil Nadu,India,208,12,8,8,40904.45,60.76
+2022-06-30,Finance,Senior Software Engineer,Senior,Mumbai,Maharashtra,India,62,15,2,2,237419.54,21.29
+2022-06-30,Customer Support,Senior Software Engineer,Senior,Delhi,Delhi,India,227,24,15,3,211640.93,14.82
+2022-06-30,Sales,Senior Software Engineer,Senior,Kolkata,West Bengal,India,203,77,18,5,177702.69,52.48
+2022-06-30,Information Technology,Data Engineer,Senior,Mumbai,Maharashtra,India,313,51,10,4,43567.94,20.86
+2022-06-30,Information Technology,Data Engineer,Senior,Mumbai,Maharashtra,India,406,19,15,4,291806.64,47.82
+2022-06-30,Finance,Customer Support Associate,Associate,Delhi,Delhi,India,73,65,17,1,262837.8,55.76
+2022-06-30,Data Analytics,Sales Executive,Associate,Gurugram,Haryana,India,121,87,7,6,245141.42,54.39
+2022-06-30,Operations,Legal Associate,Associate,Mumbai,Maharashtra,India,39,37,11,2,220854.15,50.2
+2022-06-30,Information Technology,Finance Manager,Manager,Chennai,Tamil Nadu,India,416,43,12,0,149487.63,24.3
+2022-06-30,Legal,Sales Executive,Associate,Mumbai,Maharashtra,India,53,32,15,1,173062.16,63.51
+2022-06-30,Human Resources,HR Executive,Associate,Chennai,Tamil Nadu,India,113,77,7,1,279310.22,60.8
+2022-06-30,Customer Support,Data Engineer,Senior,Bengaluru,Karnataka,India,324,47,25,5,33330.14,55.7
+2022-06-30,Data Analytics,Data Analyst,Associate,Hyderabad,Telangana,India,195,29,20,2,186943.45,29.0
+2022-07-31,Data Analytics,Senior Software Engineer,Senior,Kolkata,West Bengal,India,126,47,6,5,253074.05,48.11
+2022-07-31,Legal,HR Manager,Manager,Pune,Maharashtra,India,84,83,5,2,264580.93,42.45
+2022-07-31,Operations,Financial Analyst,Associate,Hyderabad,Telangana,India,310,15,12,4,95435.6,44.76
+2022-07-31,Data Analytics,Financial Analyst,Associate,Chennai,Tamil Nadu,India,184,25,4,2,252353.11,25.89
+2022-07-31,Operations,Customer Support Associate,Associate,Hyderabad,Telangana,India,329,50,5,3,134751.33,56.16
+2022-07-31,Data Analytics,Operations Manager,Manager,Pune,Maharashtra,India,103,25,6,2,103610.34,29.74
+2022-07-31,Finance,Customer Support Associate,Associate,Kolkata,West Bengal,India,110,76,15,2,225758.64,35.84
+2022-07-31,Sales,HR Manager,Manager,Delhi,Delhi,India,73,12,10,3,159471.81,46.38
+2022-07-31,Legal,Operations Executive,Associate,Mumbai,Maharashtra,India,86,56,17,0,40485.41,58.19
+2022-07-31,Customer Support,Sales Manager,Manager,Chennai,Tamil Nadu,India,306,44,4,2,92997.33,48.48
+2022-07-31,Sales,Software Engineer,Associate,Gurugram,Haryana,India,40,37,3,0,114280.62,40.44
+2022-08-31,Information Technology,Customer Support Associate,Associate,Gurugram,Haryana,India,213,18,11,6,63595.27,46.51
+2022-08-31,Data Analytics,Sales Executive,Associate,Pune,Maharashtra,India,51,32,22,0,204655.95,74.34
+2022-08-31,Data Analytics,Software Engineer,Associate,Pune,Maharashtra,India,289,35,13,7,186588.21,15.14
+2022-08-31,Customer Support,Sales Manager,Manager,Hyderabad,Telangana,India,217,58,19,4,192295.97,68.54
+2022-08-31,Sales,Operations Executive,Associate,Gurugram,Haryana,India,341,71,6,3,290974.54,58.21
+2022-08-31,Information Technology,Finance Manager,Manager,Delhi,Delhi,India,141,87,21,2,230278.74,61.95
+2022-08-31,Sales,Software Engineer,Associate,Hyderabad,Telangana,India,92,68,12,0,190187.53,72.67
+2022-08-31,Information Technology,Operations Executive,Associate,Chennai,Tamil Nadu,India,115,35,2,2,169810.25,17.04
+2022-09-30,Information Technology,Customer Support Associate,Associate,Delhi,Delhi,India,119,64,20,1,212951.13,54.6
+2022-09-30,Marketing,Customer Support Associate,Associate,Mumbai,Maharashtra,India,217,51,22,8,344024.92,24.83
+2022-09-30,Legal,Operations Manager,Manager,Mumbai,Maharashtra,India,193,54,13,7,311163.57,22.06
+2022-09-30,Operations,Marketing Specialist,Associate,Bengaluru,Karnataka,India,307,15,9,3,190063.94,22.67
+2022-09-30,Marketing,Financial Analyst,Associate,Delhi,Delhi,India,284,28,18,5,48442.64,23.36
+2022-09-30,Sales,HR Executive,Associate,Mumbai,Maharashtra,India,420,19,11,6,169559.72,31.68
+2022-09-30,Sales,Marketing Specialist,Associate,Hyderabad,Telangana,India,166,30,12,6,37555.25,68.19
+2022-09-30,Marketing,Operations Manager,Manager,Bengaluru,Karnataka,India,325,56,20,7,198672.68,48.41
+2022-09-30,Data Analytics,Operations Manager,Manager,Hyderabad,Telangana,India,121,89,22,7,103645.22,19.59
+2022-09-30,Human Resources,HR Executive,Associate,Mumbai,Maharashtra,India,287,71,21,4,303931.89,20.5
+2022-09-30,Sales,Data Analyst,Associate,Hyderabad,Telangana,India,209,36,15,4,329470.42,45.39
+2022-09-30,Legal,Data Engineer,Senior,Chennai,Tamil Nadu,India,153,28,2,1,254747.08,22.36
+2022-09-30,Legal,Senior Software Engineer,Senior,Bengaluru,Karnataka,India,248,67,20,1,102085.26,70.99
+2022-09-30,Marketing,Data Analyst,Associate,Delhi,Delhi,India,325,70,12,6,168523.81,21.31
+2022-09-30,Marketing,HR Manager,Manager,Gurugram,Haryana,India,115,76,6,6,281956.18,23.76
+2022-09-30,Sales,HR Manager,Manager,Gurugram,Haryana,India,295,19,16,5,159199.62,62.79
+2022-09-30,Finance,Sales Executive,Associate,Delhi,Delhi,India,254,62,15,3,58612.16,48.16
+2022-10-31,Operations,Operations Executive,Associate,Bengaluru,Karnataka,India,165,34,19,2,82935.52,48.78
+2022-10-31,Operations,Legal Associate,Associate,Bengaluru,Karnataka,India,205,34,7,6,157808.62,30.78
+2022-10-31,Human Resources,Operations Manager,Manager,Delhi,Delhi,India,389,73,10,4,117773.1,47.03
+2022-10-31,Marketing,Finance Manager,Manager,Delhi,Delhi,India,412,51,11,0,168496.5,56.4
+2022-10-31,Information Technology,HR Executive,Associate,Delhi,Delhi,India,65,12,9,6,306935.4,25.9
+2022-10-31,Human Resources,Sales Manager,Manager,Pune,Maharashtra,India,290,71,19,0,185686.75,70.26
+2022-10-31,Legal,Sales Executive,Associate,Mumbai,Maharashtra,India,214,70,23,7,166566.62,71.53
+2022-10-31,Marketing,Financial Analyst,Associate,Pune,Maharashtra,India,32,17,14,1,175846.9,43.88
+2022-11-30,Legal,Senior Software Engineer,Senior,Delhi,Delhi,India,116,52,13,1,199083.05,25.61
+2022-11-30,Data Analytics,HR Manager,Manager,Delhi,Delhi,India,85,66,19,3,94678.08,66.96
+2022-11-30,Customer Support,HR Executive,Associate,Chennai,Tamil Nadu,India,245,23,4,2,124816.33,22.02
+2022-11-30,Finance,Sales Executive,Associate,Hyderabad,Telangana,India,384,76,4,2,195351.01,32.43
+2022-11-30,Customer Support,HR Executive,Associate,Mumbai,Maharashtra,India,113,77,10,8,167889.64,43.2
+2022-11-30,Marketing,Sales Executive,Associate,Mumbai,Maharashtra,India,115,78,5,0,96507.4,32.99
+2022-11-30,Customer Support,Data Engineer,Senior,Mumbai,Maharashtra,India,197,41,5,5,46002.1,15.79
+2022-11-30,Information Technology,Data Analyst,Associate,Kolkata,West Bengal,India,364,68,25,2,219583.5,73.39
+2022-11-30,Information Technology,Data Analyst,Associate,Hyderabad,Telangana,India,380,88,25,6,256768.94,24.6
+2022-11-30,Data Analytics,Senior Software Engineer,Senior,Bengaluru,Karnataka,India,266,60,17,4,295441.38,21.36
+2022-11-30,Information Technology,Operations Executive,Associate,Hyderabad,Telangana,India,324,67,19,3,338200.31,56.09
+2022-11-30,Legal,Data Engineer,Senior,Chennai,Tamil Nadu,India,42,11,11,2,295557.05,41.13
+2022-11-30,Marketing,Sales Manager,Manager,Delhi,Delhi,India,237,70,7,6,230335.34,62.72
+2022-11-30,Customer Support,Legal Associate,Associate,Pune,Maharashtra,India,399,79,12,7,35371.69,44.14
+2022-12-31,Legal,Marketing Specialist,Associate,Pune,Maharashtra,India,273,68,7,5,115732.38,24.99
+2022-12-31,Finance,Sales Executive,Associate,Pune,Maharashtra,India,226,55,18,4,56726.15,46.88
+2022-12-31,Customer Support,Software Engineer,Associate,Hyderabad,Telangana,India,365,40,6,1,228292.38,32.75
+2022-12-31,Sales,Legal Associate,Associate,Gurugram,Haryana,India,135,26,10,2,324857.87,74.13
+2022-12-31,Finance,Operations Manager,Manager,Chennai,Tamil Nadu,India,41,30,7,2,140592.48,18.23
+2022-12-31,Finance,HR Manager,Manager,Pune,Maharashtra,India,253,17,16,0,231467.29,27.61
+2022-12-31,Marketing,Customer Support Associate,Associate,Hyderabad,Telangana,India,373,45,2,2,71903.86,68.04
+2022-12-31,Sales,Customer Support Associate,Associate,Bengaluru,Karnataka,India,65,39,21,5,249959.11,23.07
+2022-12-31,Information Technology,Customer Support Associate,Associate,Bengaluru,Karnataka,India,64,63,18,2,191150.22,15.14
+2022-12-31,Data Analytics,Operations Executive,Associate,Chennai,Tamil Nadu,India,317,27,18,8,184557.82,50.23
+2022-12-31,Finance,Operations Executive,Associate,Hyderabad,Telangana,India,360,47,9,6,143748.56,17.65
+2022-12-31,Customer Support,Data Analyst,Associate,Mumbai,Maharashtra,India,258,63,18,7,82004.52,46.67
+2022-12-31,Operations,Legal Associate,Associate,Mumbai,Maharashtra,India,154,28,22,5,34997.46,31.08
+2022-12-31,Human Resources,Sales Executive,Associate,Mumbai,Maharashtra,India,222,88,7,1,220309.1,18.54
+2022-12-31,Data Analytics,Marketing Specialist,Associate,Hyderabad,Telangana,India,298,26,20,8,71671.22,30.49
+2023-01-31,Data Analytics,Operations Executive,Associate,Hyderabad,Telangana,India,375,8,5,0,25460.24,67.48
+2023-01-31,Information Technology,Customer Support Associate,Associate,Pune,Maharashtra,India,160,68,16,7,76903.16,40.62
+2023-01-31,Data Analytics,Operations Executive,Associate,Mumbai,Maharashtra,India,35,12,10,5,182307.51,26.03
+2023-01-31,Legal,Data Analyst,Associate,Delhi,Delhi,India,146,20,10,0,259567.16,26.49
+2023-01-31,Data Analytics,Customer Support Associate,Associate,Mumbai,Maharashtra,India,285,73,6,1,60328.99,25.25
+2023-01-31,Legal,Sales Executive,Associate,Chennai,Tamil Nadu,India,351,36,21,2,168600.81,64.38
+2023-01-31,Marketing,Financial Analyst,Associate,Gurugram,Haryana,India,250,64,20,2,262326.93,74.81
+2023-01-31,Customer Support,Sales Executive,Associate,Kolkata,West Bengal,India,420,47,20,1,135312.88,53.36
+2023-01-31,Data Analytics,Customer Support Associate,Associate,Pune,Maharashtra,India,220,27,2,1,40436.95,14.61
+2023-01-31,Operations,Marketing Specialist,Associate,Delhi,Delhi,India,361,80,8,5,125650.38,49.81
+2023-01-31,Data Analytics,Data Analyst,Associate,Hyderabad,Telangana,India,355,59,22,1,223633.02,50.36
+2023-02-28,Human Resources,Sales Executive,Associate,Hyderabad,Telangana,India,368,64,9,1,240588.29,39.52
+2023-02-28,Legal,Software Engineer,Associate,Pune,Maharashtra,India,156,40,13,8,197114.51,35.3
+2023-02-28,Operations,Operations Manager,Manager,Delhi,Delhi,India,183,45,20,5,277644.87,46.23
+2023-02-28,Sales,Legal Associate,Associate,Pune,Maharashtra,India,216,84,16,7,212763.6,15.35
+2023-02-28,Human Resources,Sales Manager,Manager,Bengaluru,Karnataka,India,149,33,11,6,276347.46,47.94
+2023-02-28,Information Technology,Customer Support Associate,Associate,Kolkata,West Bengal,India,116,11,8,5,303604.65,40.96
+2023-02-28,Finance,HR Manager,Manager,Mumbai,Maharashtra,India,360,22,15,5,253424.99,57.76
+2023-02-28,Human Resources,Marketing Specialist,Associate,Kolkata,West Bengal,India,173,52,14,3,294375.25,67.79
+2023-02-28,Legal,Legal Associate,Associate,Mumbai,Maharashtra,India,251,33,17,6,232835.61,74.21
+2023-02-28,Information Technology,Senior Software Engineer,Senior,Chennai,Tamil Nadu,India,234,17,10,7,332479.22,47.0
+2023-02-28,Information Technology,Legal Associate,Associate,Pune,Maharashtra,India,282,63,14,5,207635.01,32.7
+2023-02-28,Operations,Financial Analyst,Associate,Mumbai,Maharashtra,India,255,45,23,8,345385.72,51.91
+2023-02-28,Information Technology,Data Engineer,Senior,Pune,Maharashtra,India,392,52,22,6,154304.57,70.98
+2023-02-28,Customer Support,Customer Support Associate,Associate,Mumbai,Maharashtra,India,116,70,15,4,147063.82,36.5
+2023-02-28,Finance,Sales Manager,Manager,Mumbai,Maharashtra,India,393,64,25,7,318197.05,41.15
+2023-02-28,Operations,Customer Support Associate,Associate,Pune,Maharashtra,India,256,76,4,2,53087.22,73.21
+2023-02-28,Marketing,Data Engineer,Senior,Bengaluru,Karnataka,India,359,33,24,7,336565.19,23.21
+2023-02-28,Legal,Data Engineer,Senior,Kolkata,West Bengal,India,58,48,17,2,312747.24,43.8
+2023-03-31,Customer Support,Sales Manager,Manager,Hyderabad,Telangana,India,294,35,18,1,38910.58,42.19
+2023-03-31,Data Analytics,Operations Manager,Manager,Mumbai,Maharashtra,India,359,16,6,4,148783.36,14.22
+2023-03-31,Operations,Customer Support Associate,Associate,Chennai,Tamil Nadu,India,409,90,24,0,222771.58,74.64
+2023-03-31,Sales,HR Executive,Associate,Pune,Maharashtra,India,376,23,11,7,213029.34,41.44
+2023-03-31,Data Analytics,Senior Software Engineer,Senior,Kolkata,West Bengal,India,364,71,15,3,278770.17,27.43
+2023-03-31,Finance,Legal Associate,Associate,Chennai,Tamil Nadu,India,62,25,5,4,30418.98,39.45
+2023-03-31,Finance,Data Analyst,Associate,Pune,Maharashtra,India,96,82,8,5,137313.53,26.68
+2023-03-31,Information Technology,Senior Software Engineer,Senior,Mumbai,Maharashtra,India,255,32,4,1,161523.73,59.29
+2023-03-31,Sales,Customer Support Associate,Associate,Gurugram,Haryana,India,55,46,2,1,326872.63,40.3
+2023-03-31,Information Technology,Sales Manager,Manager,Chennai,Tamil Nadu,India,174,62,25,1,219811.48,19.8
+2023-03-31,Finance,Operations Executive,Associate,Bengaluru,Karnataka,India,81,11,2,2,331212.34,15.63
+2023-03-31,Customer Support,Financial Analyst,Associate,Pune,Maharashtra,India,60,59,6,4,226759.89,56.82
+2023-03-31,Data Analytics,HR Manager,Manager,Chennai,Tamil Nadu,India,224,85,20,8,347022.3,73.89
+2023-03-31,Operations,HR Executive,Associate,Gurugram,Haryana,India,168,20,18,4,214494.91,71.33
+2023-03-31,Legal,Sales Manager,Manager,Delhi,Delhi,India,306,37,25,5,76765.25,49.91
+2023-03-31,Information Technology,Finance Manager,Manager,Gurugram,Haryana,India,372,48,13,4,259757.3,19.86
+2023-04-30,Human Resources,Finance Manager,Manager,Pune,Maharashtra,India,265,11,8,5,239016.37,28.62
+2023-04-30,Finance,Sales Executive,Associate,Delhi,Delhi,India,127,45,10,2,221284.45,61.5
+2023-04-30,Information Technology,HR Manager,Manager,Gurugram,Haryana,India,148,39,8,8,128344.3,29.05
+2023-04-30,Customer Support,Marketing Specialist,Associate,Gurugram,Haryana,India,300,62,13,5,208250.25,47.32
+2023-04-30,Marketing,Sales Executive,Associate,Kolkata,West Bengal,India,256,42,9,6,41021.96,52.33
+2023-04-30,Finance,HR Manager,Manager,Hyderabad,Telangana,India,309,84,13,4,300856.09,53.7
+2023-04-30,Legal,Legal Associate,Associate,Hyderabad,Telangana,India,230,54,10,5,237770.2,30.45
+2023-04-30,Customer Support,Senior Software Engineer,Senior,Kolkata,West Bengal,India,276,60,12,7,68073.57,57.9
+2023-04-30,Sales,Operations Executive,Associate,Hyderabad,Telangana,India,348,52,25,6,184415.21,74.07
+2023-04-30,Customer Support,HR Manager,Manager,Delhi,Delhi,India,69,10,5,5,196288.16,42.43
+2023-04-30,Finance,Operations Manager,Manager,Bengaluru,Karnataka,India,388,48,16,2,91558.7,45.51
+2023-04-30,Operations,HR Manager,Manager,Delhi,Delhi,India,182,71,9,8,46950.2,42.85
+2023-04-30,Customer Support,Financial Analyst,Associate,Gurugram,Haryana,India,335,47,21,4,104782.97,66.64
+2023-04-30,Legal,Sales Manager,Manager,Pune,Maharashtra,India,298,53,16,2,292865.29,63.59
+2023-05-31,Legal,Legal Associate,Associate,Bengaluru,Karnataka,India,102,72,7,1,196565.35,37.08
+2023-05-31,Legal,Operations Executive,Associate,Bengaluru,Karnataka,India,101,78,8,1,347985.91,57.5
+2023-05-31,Sales,Financial Analyst,Associate,Pune,Maharashtra,India,89,89,12,8,86554.16,46.43
+2023-05-31,Marketing,Finance Manager,Manager,Hyderabad,Telangana,India,189,61,14,1,240326.45,29.1
+2023-05-31,Sales,Data Engineer,Senior,Gurugram,Haryana,India,276,69,18,5,49712.34,70.57
+2023-05-31,Finance,Finance Manager,Manager,Delhi,Delhi,India,39,26,24,1,48096.54,71.17
+2023-05-31,Customer Support,Marketing Specialist,Associate,Kolkata,West Bengal,India,82,56,19,0,33586.01,55.05
+2023-05-31,Information Technology,HR Manager,Manager,Bengaluru,Karnataka,India,41,13,4,2,252586.18,16.35
+2023-05-31,Marketing,HR Executive,Associate,Chennai,Tamil Nadu,India,52,12,12,6,129623.82,53.63
+2023-05-31,Information Technology,Data Engineer,Senior,Pune,Maharashtra,India,217,73,11,1,131447.65,67.8
+2023-05-31,Marketing,Software Engineer,Associate,Hyderabad,Telangana,India,420,81,20,3,82862.02,71.39
+2023-05-31,Operations,Sales Manager,Manager,Delhi,Delhi,India,35,18,2,1,158168.8,70.42
+2023-06-30,Sales,Operations Executive,Associate,Hyderabad,Telangana,India,192,67,8,5,291490.1,65.64
+2023-06-30,Finance,Data Analyst,Associate,Gurugram,Haryana,India,226,61,17,0,193246.92,46.46
+2023-06-30,Information Technology,Finance Manager,Manager,Pune,Maharashtra,India,193,11,6,3,92446.06,58.56
+2023-06-30,Human Resources,Operations Manager,Manager,Gurugram,Haryana,India,392,79,18,6,128023.82,61.53
+2023-06-30,Information Technology,Data Engineer,Senior,Chennai,Tamil Nadu,India,275,9,3,2,77671.07,72.95
+2023-06-30,Finance,HR Manager,Manager,Gurugram,Haryana,India,36,23,9,2,318665.8,57.95
+2023-06-30,Customer Support,Customer Support Associate,Associate,Delhi,Delhi,India,203,14,6,2,274652.38,21.92
+2023-06-30,Operations,Senior Software Engineer,Senior,Pune,Maharashtra,India,122,83,2,0,95152.97,55.81
+2023-06-30,Operations,Sales Executive,Associate,Gurugram,Haryana,India,264,55,19,4,227350.87,68.14
+2023-06-30,Sales,Software Engineer,Associate,Delhi,Delhi,India,32,30,9,5,275220.82,25.16
+2023-06-30,Marketing,Sales Executive,Associate,Kolkata,West Bengal,India,275,42,25,5,183886.41,65.64
+2023-06-30,Legal,Senior Software Engineer,Senior,Hyderabad,Telangana,India,126,12,3,1,204898.02,36.07
+2023-07-31,Marketing,Sales Executive,Associate,Chennai,Tamil Nadu,India,286,81,21,5,214695.26,29.41
+2023-07-31,Customer Support,Operations Manager,Manager,Bengaluru,Karnataka,India,137,12,2,2,270019.0,55.79
+2023-07-31,Operations,Operations Executive,Associate,Kolkata,West Bengal,India,411,60,18,6,226251.02,17.63
+2023-07-31,Customer Support,Customer Support Associate,Associate,Delhi,Delhi,India,185,10,8,5,276892.09,71.79
+2023-07-31,Data Analytics,Operations Manager,Manager,Hyderabad,Telangana,India,278,52,4,2,132283.09,26.17
+2023-07-31,Finance,Legal Associate,Associate,Hyderabad,Telangana,India,275,18,11,4,85782.43,37.92
+2023-07-31,Sales,HR Executive,Associate,Bengaluru,Karnataka,India,267,72,15,8,51121.57,61.21
+2023-07-31,Sales,Sales Manager,Manager,Pune,Maharashtra,India,231,60,2,0,332538.89,56.59
+2023-07-31,Marketing,Financial Analyst,Associate,Hyderabad,Telangana,India,373,44,7,7,182173.8,42.0
+2023-07-31,Data Analytics,Finance Manager,Manager,Kolkata,West Bengal,India,319,26,6,1,285583.94,71.6
+2023-07-31,Finance,Operations Manager,Manager,Bengaluru,Karnataka,India,303,54,10,5,314555.43,62.24
+2023-07-31,Marketing,Financial Analyst,Associate,Mumbai,Maharashtra,India,297,83,6,6,253681.21,42.3
+2023-07-31,Finance,Marketing Specialist,Associate,Pune,Maharashtra,India,283,24,8,1,349900.85,51.6
+2023-07-31,Marketing,Customer Support Associate,Associate,Delhi,Delhi,India,329,63,20,0,222410.13,28.46
+2023-07-31,Human Resources,Marketing Specialist,Associate,Bengaluru,Karnataka,India,121,86,3,3,290072.17,30.1
+2023-07-31,Human Resources,HR Executive,Associate,Pune,Maharashtra,India,283,43,21,3,267551.3,14.52
+2023-07-31,Data Analytics,Software Engineer,Associate,Delhi,Delhi,India,155,39,15,3,78243.11,31.84
+2023-07-31,Marketing,Operations Executive,Associate,Mumbai,Maharashtra,India,91,68,3,0,293314.53,60.08
+2023-08-31,Legal,HR Manager,Manager,Gurugram,Haryana,India,259,22,19,6,61306.5,59.09
+2023-08-31,Operations,Operations Executive,Associate,Hyderabad,Telangana,India,176,30,23,8,144140.7,69.07
+2023-08-31,Operations,Marketing Specialist,Associate,Mumbai,Maharashtra,India,125,57,21,8,236377.76,60.68
+2023-08-31,Data Analytics,Financial Analyst,Associate,Kolkata,West Bengal,India,263,62,20,6,250979.66,74.96
+2023-08-31,Customer Support,Customer Support Associate,Associate,Gurugram,Haryana,India,399,32,11,0,148630.01,69.72
+2023-08-31,Legal,HR Manager,Manager,Chennai,Tamil Nadu,India,160,79,25,4,196353.55,44.3
+2023-08-31,Finance,Senior Software Engineer,Senior,Gurugram,Haryana,India,95,50,7,0,205828.89,55.64
+2023-08-31,Marketing,Operations Executive,Associate,Hyderabad,Telangana,India,372,82,25,1,41154.06,22.85
+2023-08-31,Finance,Financial Analyst,Associate,Mumbai,Maharashtra,India,129,90,17,5,332028.82,52.39
+2023-08-31,Customer Support,Data Engineer,Senior,Bengaluru,Karnataka,India,348,16,16,0,213758.47,50.89
+2023-09-30,Marketing,Customer Support Associate,Associate,Chennai,Tamil Nadu,India,275,12,4,1,247267.32,35.72
+2023-09-30,Customer Support,Senior Software Engineer,Senior,Delhi,Delhi,India,233,25,5,5,155631.03,74.73
+2023-09-30,Sales,Sales Executive,Associate,Hyderabad,Telangana,India,196,83,2,2,121796.06,72.18
+2023-09-30,Sales,Software Engineer,Associate,Delhi,Delhi,India,304,88,3,1,93511.69,64.62
+2023-09-30,Data Analytics,Sales Manager,Manager,Chennai,Tamil Nadu,India,338,43,4,1,278916.65,14.48
+2023-09-30,Customer Support,Sales Executive,Associate,Kolkata,West Bengal,India,270,65,14,1,276523.44,70.38
+2023-09-30,Sales,Sales Manager,Manager,Kolkata,West Bengal,India,63,32,12,1,159859.62,17.93
+2023-09-30,Finance,Senior Software Engineer,Senior,Gurugram,Haryana,India,213,38,3,2,149600.04,48.3
+2023-09-30,Human Resources,Software Engineer,Associate,Pune,Maharashtra,India,372,14,6,1,107207.52,56.57
+2023-09-30,Information Technology,HR Executive,Associate,Pune,Maharashtra,India,273,88,18,6,139589.03,16.14
+2023-09-30,Data Analytics,Software Engineer,Associate,Delhi,Delhi,India,196,33,14,5,139313.16,18.99
+2023-09-30,Operations,Data Analyst,Associate,Gurugram,Haryana,India,201,59,6,2,56651.77,35.43
+2023-09-30,Customer Support,Data Engineer,Senior,Kolkata,West Bengal,India,243,28,14,8,137412.76,30.0
+2023-09-30,Marketing,Sales Executive,Associate,Delhi,Delhi,India,313,83,24,8,45635.08,24.18
+2023-10-31,Sales,Data Analyst,Associate,Gurugram,Haryana,India,93,22,19,0,246059.48,42.27
+2023-10-31,Information Technology,Senior Software Engineer,Senior,Pune,Maharashtra,India,417,89,23,4,308366.83,65.33
+2023-10-31,Legal,Data Engineer,Senior,Hyderabad,Telangana,India,212,87,4,0,111110.5,55.11
+2023-10-31,Human Resources,HR Executive,Associate,Pune,Maharashtra,India,128,57,7,7,64223.06,15.27
+2023-10-31,Data Analytics,Legal Associate,Associate,Kolkata,West Bengal,India,172,17,10,0,244217.65,55.42
+2023-10-31,Information Technology,HR Manager,Manager,Mumbai,Maharashtra,India,116,63,13,0,223045.48,34.54
+2023-10-31,Sales,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,35,22,2,2,53343.15,23.79
+2023-10-31,Customer Support,Data Engineer,Senior,Mumbai,Maharashtra,India,377,71,6,2,85564.97,59.53
+2023-11-30,Information Technology,Operations Executive,Associate,Gurugram,Haryana,India,255,84,10,0,148102.69,14.93
+2023-11-30,Finance,Finance Manager,Manager,Mumbai,Maharashtra,India,308,39,16,3,117340.56,59.42
+2023-11-30,Information Technology,Data Engineer,Senior,Gurugram,Haryana,India,95,21,16,0,44079.06,70.5
+2023-11-30,Operations,Marketing Specialist,Associate,Hyderabad,Telangana,India,291,67,11,5,186280.64,58.3
+2023-11-30,Customer Support,Software Engineer,Associate,Kolkata,West Bengal,India,376,46,6,5,98260.48,66.32
+2023-11-30,Operations,Data Engineer,Senior,Chennai,Tamil Nadu,India,249,69,6,3,97699.29,37.76
+2023-11-30,Data Analytics,Financial Analyst,Associate,Pune,Maharashtra,India,116,65,17,3,117672.36,36.45
+2023-11-30,Sales,Legal Associate,Associate,Mumbai,Maharashtra,India,115,61,7,2,184902.79,19.43
+2023-11-30,Finance,HR Executive,Associate,Chennai,Tamil Nadu,India,193,56,17,4,203492.14,30.27
+2023-12-31,Human Resources,Data Engineer,Senior,Mumbai,Maharashtra,India,146,52,17,6,202918.93,62.48
+2023-12-31,Customer Support,Software Engineer,Associate,Mumbai,Maharashtra,India,66,10,4,1,156686.27,15.08
+2023-12-31,Legal,Data Analyst,Associate,Chennai,Tamil Nadu,India,97,85,20,7,288556.65,19.51
+2023-12-31,Marketing,Data Engineer,Senior,Delhi,Delhi,India,369,36,12,6,68166.38,19.64
+2023-12-31,Human Resources,HR Executive,Associate,Gurugram,Haryana,India,114,22,3,2,285947.61,34.89
+2023-12-31,Human Resources,Data Analyst,Associate,Kolkata,West Bengal,India,398,40,12,8,291697.69,67.15
+2023-12-31,Customer Support,Software Engineer,Associate,Bengaluru,Karnataka,India,344,43,13,7,82924.38,59.3
+2023-12-31,Information Technology,Data Engineer,Senior,Gurugram,Haryana,India,297,29,25,0,72962.12,20.91
+2024-01-31,Operations,Finance Manager,Manager,Gurugram,Haryana,India,362,28,11,4,190826.95,58.26
+2024-01-31,Customer Support,Operations Manager,Manager,Hyderabad,Telangana,India,269,23,2,1,287168.46,61.57
+2024-01-31,Information Technology,Sales Executive,Associate,Hyderabad,Telangana,India,268,46,16,5,63518.25,44.32
+2024-01-31,Operations,Operations Executive,Associate,Delhi,Delhi,India,79,67,2,0,330672.35,61.61
+2024-01-31,Operations,Senior Software Engineer,Senior,Gurugram,Haryana,India,396,41,16,3,116172.72,63.41
+2024-01-31,Marketing,Operations Executive,Associate,Bengaluru,Karnataka,India,312,50,22,3,290403.18,27.28
+2024-01-31,Operations,Sales Manager,Manager,Hyderabad,Telangana,India,369,40,23,1,191179.57,42.99
+2024-01-31,Human Resources,Data Analyst,Associate,Chennai,Tamil Nadu,India,134,47,20,8,113489.54,35.1
+2024-02-29,Data Analytics,Sales Executive,Associate,Pune,Maharashtra,India,169,11,9,0,344497.67,56.44
+2024-02-29,Data Analytics,Data Analyst,Associate,Gurugram,Haryana,India,113,42,6,2,301160.87,57.82
+2024-02-29,Data Analytics,HR Manager,Manager,Chennai,Tamil Nadu,India,397,16,12,5,305539.83,50.64
+2024-02-29,Legal,Finance Manager,Manager,Chennai,Tamil Nadu,India,115,51,25,0,159324.97,40.66
+2024-02-29,Marketing,HR Executive,Associate,Hyderabad,Telangana,India,151,44,15,4,327564.0,21.16
+2024-02-29,Data Analytics,Operations Executive,Associate,Gurugram,Haryana,India,99,58,22,7,259957.08,60.87
+2024-02-29,Human Resources,Operations Executive,Associate,Pune,Maharashtra,India,107,10,8,0,69918.41,15.04
+2024-02-29,Finance,Senior Software Engineer,Senior,Bengaluru,Karnataka,India,328,9,5,3,327728.24,50.53
+2024-02-29,Human Resources,Marketing Specialist,Associate,Pune,Maharashtra,India,315,30,4,2,314650.11,24.32
+2024-02-29,Customer Support,Financial Analyst,Associate,Gurugram,Haryana,India,102,52,9,4,234656.67,44.07
+2024-02-29,Data Analytics,Sales Executive,Associate,Delhi,Delhi,India,194,51,20,0,128497.57,24.25
+2024-02-29,Information Technology,Software Engineer,Associate,Mumbai,Maharashtra,India,400,71,15,4,111907.56,56.12
+2024-02-29,Sales,Senior Software Engineer,Senior,Gurugram,Haryana,India,330,22,2,0,127515.79,45.15
+2024-02-29,Data Analytics,HR Manager,Manager,Gurugram,Haryana,India,57,32,6,3,158030.06,37.2
+2024-03-31,Legal,Legal Associate,Associate,Bengaluru,Karnataka,India,397,57,5,0,175477.18,69.52
+2024-03-31,Information Technology,Operations Executive,Associate,Bengaluru,Karnataka,India,63,39,19,6,234551.86,72.08
+2024-03-31,Data Analytics,HR Manager,Manager,Mumbai,Maharashtra,India,149,14,3,0,345362.05,40.48
+2024-03-31,Data Analytics,Financial Analyst,Associate,Bengaluru,Karnataka,India,48,33,8,8,308789.34,59.23
+2024-03-31,Data Analytics,Data Engineer,Senior,Bengaluru,Karnataka,India,57,30,15,4,244687.9,35.71
+2024-03-31,Information Technology,Finance Manager,Manager,Mumbai,Maharashtra,India,343,62,4,0,232756.91,39.58
+2024-03-31,Legal,HR Executive,Associate,Mumbai,Maharashtra,India,101,32,12,5,221605.34,39.5
+2024-03-31,Marketing,Legal Associate,Associate,Mumbai,Maharashtra,India,87,36,17,3,46525.54,42.48
+2024-03-31,Human Resources,HR Manager,Manager,Gurugram,Haryana,India,267,69,6,5,200330.15,58.11
+2024-03-31,Information Technology,Data Engineer,Senior,Bengaluru,Karnataka,India,80,10,6,6,287426.27,49.04
+2024-03-31,Human Resources,Sales Executive,Associate,Chennai,Tamil Nadu,India,66,29,21,5,289452.48,19.49
+2024-04-30,Customer Support,Operations Executive,Associate,Kolkata,West Bengal,India,93,72,4,3,123927.76,28.69
+2024-04-30,Legal,Legal Associate,Associate,Mumbai,Maharashtra,India,87,71,12,8,39932.57,61.73
+2024-04-30,Sales,Customer Support Associate,Associate,Delhi,Delhi,India,238,78,19,2,37123.19,71.05
+2024-04-30,Human Resources,Data Engineer,Senior,Hyderabad,Telangana,India,391,30,22,4,99547.31,30.9
+2024-04-30,Operations,Operations Executive,Associate,Gurugram,Haryana,India,66,29,18,2,92831.64,41.54
+2024-04-30,Customer Support,HR Manager,Manager,Hyderabad,Telangana,India,117,89,16,1,108001.1,72.54
+2024-04-30,Customer Support,Sales Executive,Associate,Kolkata,West Bengal,India,270,23,3,1,176238.64,55.41
+2024-04-30,Operations,Operations Manager,Manager,Chennai,Tamil Nadu,India,408,20,20,3,280051.22,55.64
+2024-04-30,Human Resources,Data Engineer,Senior,Hyderabad,Telangana,India,251,41,21,6,232691.39,24.83
+2024-05-31,Customer Support,Sales Executive,Associate,Gurugram,Haryana,India,319,65,13,4,261318.65,29.98
+2024-05-31,Human Resources,Sales Manager,Manager,Bengaluru,Karnataka,India,326,18,15,4,142600.23,35.84
+2024-05-31,Information Technology,Legal Associate,Associate,Gurugram,Haryana,India,102,90,15,8,243824.28,65.94
+2024-05-31,Human Resources,Financial Analyst,Associate,Mumbai,Maharashtra,India,314,63,9,0,212156.52,49.71
+2024-05-31,Human Resources,Data Analyst,Associate,Gurugram,Haryana,India,384,69,14,2,238912.66,29.72
+2024-05-31,Finance,Software Engineer,Associate,Kolkata,West Bengal,India,226,63,17,0,221765.32,38.35
+2024-05-31,Customer Support,Senior Software Engineer,Senior,Hyderabad,Telangana,India,206,74,15,7,181676.54,66.55
+2024-05-31,Customer Support,Legal Associate,Associate,Hyderabad,Telangana,India,404,8,6,3,119172.18,51.95
+2024-05-31,Customer Support,Customer Support Associate,Associate,Mumbai,Maharashtra,India,159,86,14,1,192913.1,30.86
+2024-06-30,Marketing,Customer Support Associate,Associate,Delhi,Delhi,India,252,83,5,0,261195.41,45.85
+2024-06-30,Data Analytics,Marketing Specialist,Associate,Bengaluru,Karnataka,India,361,38,23,7,132417.74,60.79
+2024-06-30,Legal,Software Engineer,Associate,Pune,Maharashtra,India,409,48,18,6,129350.26,35.94
+2024-06-30,Customer Support,Legal Associate,Associate,Gurugram,Haryana,India,140,30,17,2,128472.37,44.04
+2024-06-30,Marketing,Data Engineer,Senior,Bengaluru,Karnataka,India,43,25,13,2,71754.1,73.15
+2024-06-30,Customer Support,Marketing Specialist,Associate,Kolkata,West Bengal,India,415,87,10,8,176782.52,48.74
+2024-06-30,Sales,Software Engineer,Associate,Bengaluru,Karnataka,India,371,61,14,4,277737.12,33.93
+2024-06-30,Finance,Customer Support Associate,Associate,Delhi,Delhi,India,213,43,4,1,295498.0,60.48
+2024-07-31,Legal,Sales Manager,Manager,Chennai,Tamil Nadu,India,298,72,24,2,226181.26,32.1
+2024-07-31,Operations,HR Manager,Manager,Pune,Maharashtra,India,252,39,16,5,241257.49,43.95
+2024-07-31,Legal,Data Analyst,Associate,Hyderabad,Telangana,India,306,26,13,8,262292.92,37.29
+2024-07-31,Operations,Sales Executive,Associate,Kolkata,West Bengal,India,352,42,18,7,142013.72,72.21
+2024-07-31,Customer Support,Customer Support Associate,Associate,Hyderabad,Telangana,India,87,24,8,3,205214.84,61.73
+2024-07-31,Data Analytics,Data Engineer,Senior,Kolkata,West Bengal,India,174,80,11,0,151467.9,55.87
+2024-07-31,Information Technology,Operations Manager,Manager,Mumbai,Maharashtra,India,44,13,12,5,223878.85,39.27
+2024-07-31,Data Analytics,Finance Manager,Manager,Kolkata,West Bengal,India,119,76,13,3,144783.39,39.56
+2024-07-31,Legal,Sales Executive,Associate,Bengaluru,Karnataka,India,196,52,19,7,210786.82,17.0
+2024-07-31,Marketing,Data Engineer,Senior,Kolkata,West Bengal,India,336,37,3,3,155549.01,58.95
+2024-07-31,Information Technology,Sales Manager,Manager,Gurugram,Haryana,India,345,26,22,7,136287.44,67.35
+2024-07-31,Human Resources,Operations Executive,Associate,Mumbai,Maharashtra,India,401,63,4,0,294779.64,49.62
+2024-08-31,Customer Support,HR Manager,Manager,Gurugram,Haryana,India,329,50,11,1,77929.34,51.34
+2024-08-31,Operations,Data Analyst,Associate,Kolkata,West Bengal,India,239,71,6,5,251714.47,73.34
+2024-08-31,Information Technology,Financial Analyst,Associate,Chennai,Tamil Nadu,India,221,86,21,6,169908.05,16.21
+2024-08-31,Operations,Operations Executive,Associate,Bengaluru,Karnataka,India,384,43,8,7,248894.42,38.87
+2024-08-31,Human Resources,Legal Associate,Associate,Gurugram,Haryana,India,49,16,12,4,116664.8,51.45
+2024-08-31,Data Analytics,Finance Manager,Manager,Chennai,Tamil Nadu,India,232,79,17,4,291895.74,56.35
+2024-08-31,Marketing,Software Engineer,Associate,Hyderabad,Telangana,India,247,12,6,0,162854.21,60.1
+2024-08-31,Information Technology,Senior Software Engineer,Senior,Delhi,Delhi,India,79,19,7,5,239637.83,25.72
+2024-09-30,Information Technology,Finance Manager,Manager,Mumbai,Maharashtra,India,287,29,14,3,162878.4,46.93
+2024-09-30,Marketing,Financial Analyst,Associate,Hyderabad,Telangana,India,355,60,2,1,202151.79,27.78
+2024-09-30,Data Analytics,Legal Associate,Associate,Delhi,Delhi,India,417,47,19,8,49308.97,37.74
+2024-09-30,Customer Support,Operations Executive,Associate,Pune,Maharashtra,India,213,74,14,5,106714.19,59.52
+2024-09-30,Finance,HR Manager,Manager,Kolkata,West Bengal,India,399,58,21,7,97396.2,42.98
+2024-09-30,Data Analytics,HR Executive,Associate,Delhi,Delhi,India,420,84,23,5,56406.11,31.78
+2024-09-30,Human Resources,Sales Executive,Associate,Chennai,Tamil Nadu,India,94,84,7,7,230981.25,14.67
+2024-09-30,Finance,Marketing Specialist,Associate,Gurugram,Haryana,India,293,33,13,1,258006.1,28.63
+2024-09-30,Customer Support,Software Engineer,Associate,Mumbai,Maharashtra,India,396,52,5,3,182965.15,56.75
+2024-10-31,Customer Support,Legal Associate,Associate,Kolkata,West Bengal,India,94,90,8,8,264725.26,20.63
+2024-10-31,Legal,Marketing Specialist,Associate,Hyderabad,Telangana,India,280,56,20,4,305687.33,58.13
+2024-10-31,Data Analytics,Senior Software Engineer,Senior,Bengaluru,Karnataka,India,198,42,10,3,44385.59,24.93
+2024-10-31,Operations,Sales Executive,Associate,Delhi,Delhi,India,272,38,23,0,186777.42,52.8
+2024-10-31,Legal,Customer Support Associate,Associate,Hyderabad,Telangana,India,111,43,21,7,226069.95,67.81
+2024-10-31,Information Technology,Data Engineer,Senior,Hyderabad,Telangana,India,385,73,23,7,286309.31,23.48
+2024-10-31,Marketing,Data Analyst,Associate,Gurugram,Haryana,India,322,85,9,7,341983.17,60.28
+2024-10-31,Marketing,Legal Associate,Associate,Mumbai,Maharashtra,India,320,25,10,4,142180.4,33.34
+2024-10-31,Finance,Customer Support Associate,Associate,Hyderabad,Telangana,India,96,78,13,4,57900.9,26.08
+2024-10-31,Legal,Software Engineer,Associate,Mumbai,Maharashtra,India,238,15,13,6,76087.77,53.87
+2024-11-30,Customer Support,Senior Software Engineer,Senior,Pune,Maharashtra,India,190,44,16,8,32878.9,44.96
+2024-11-30,Sales,Finance Manager,Manager,Hyderabad,Telangana,India,341,50,16,0,155261.6,16.84
+2024-11-30,Sales,Software Engineer,Associate,Pune,Maharashtra,India,351,41,14,1,90259.33,49.47
+2024-11-30,Finance,Senior Software Engineer,Senior,Pune,Maharashtra,India,125,50,6,0,223311.66,31.74
+2024-11-30,Sales,Financial Analyst,Associate,Mumbai,Maharashtra,India,158,66,8,1,224293.57,58.11
+2024-11-30,Sales,Senior Software Engineer,Senior,Kolkata,West Bengal,India,48,28,23,4,283896.54,54.44
+2024-11-30,Data Analytics,Data Analyst,Associate,Gurugram,Haryana,India,131,13,7,6,247624.51,50.42
+2024-11-30,Data Analytics,Customer Support Associate,Associate,Delhi,Delhi,India,119,56,22,6,158571.63,58.37
+2024-11-30,Marketing,Financial Analyst,Associate,Pune,Maharashtra,India,102,44,23,6,57443.39,34.66
+2024-11-30,Legal,Senior Software Engineer,Senior,Chennai,Tamil Nadu,India,386,56,5,5,126558.42,38.47
+2024-12-31,Sales,Software Engineer,Associate,Delhi,Delhi,India,114,33,13,5,105523.53,68.47
+2024-12-31,Customer Support,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,191,41,3,2,282156.51,34.78
+2024-12-31,Marketing,Data Analyst,Associate,Gurugram,Haryana,India,112,8,7,0,200161.38,71.2
+2024-12-31,Legal,Operations Executive,Associate,Chennai,Tamil Nadu,India,281,20,9,8,345685.93,66.55
+2024-12-31,Legal,Marketing Specialist,Associate,Pune,Maharashtra,India,296,29,9,8,246145.38,57.73
+2024-12-31,Sales,HR Executive,Associate,Kolkata,West Bengal,India,233,89,4,1,122231.7,31.93
+2024-12-31,Data Analytics,HR Executive,Associate,Hyderabad,Telangana,India,395,18,8,7,266061.12,18.02
+2024-12-31,Sales,Finance Manager,Manager,Gurugram,Haryana,India,303,21,13,7,186657.51,47.28
+2024-12-31,Marketing,Marketing Specialist,Associate,Gurugram,Haryana,India,129,77,25,1,217672.36,74.5
+2024-12-31,Marketing,Operations Manager,Manager,Kolkata,West Bengal,India,403,58,20,1,304195.07,58.61
+2024-12-31,Finance,Senior Software Engineer,Senior,Kolkata,West Bengal,India,345,57,6,1,323690.75,17.23
+2024-12-31,Data Analytics,Sales Executive,Associate,Pune,Maharashtra,India,148,87,3,3,296817.67,39.01
+2024-12-31,Sales,Marketing Specialist,Associate,Gurugram,Haryana,India,328,30,19,4,169327.45,28.38
+2024-12-31,Finance,Finance Manager,Manager,Delhi,Delhi,India,386,89,11,6,46435.34,14.51
+2024-12-31,Legal,Customer Support Associate,Associate,Chennai,Tamil Nadu,India,274,28,14,7,34875.01,74.52
+2024-12-31,Customer Support,Senior Software Engineer,Senior,Gurugram,Haryana,India,58,50,22,1,32597.62,32.19
+2024-12-31,Finance,Operations Executive,Associate,Pune,Maharashtra,India,177,80,22,0,92016.43,56.4
+2024-12-31,Operations,Marketing Specialist,Associate,Pune,Maharashtra,India,193,69,7,4,318685.8,14.73

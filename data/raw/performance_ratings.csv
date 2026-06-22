@@ -1,0 +1,6 @@
+rating_code,rating_label,rating_description
+1,Needs Improvement,Performance is below expectations
+2,Developing,Performance meets some expectations
+3,Meets Expectations,Performance consistently meets expectations
+4,Exceeds Expectations,Performance is above expectations
+5,Outstanding,Performance is exceptional

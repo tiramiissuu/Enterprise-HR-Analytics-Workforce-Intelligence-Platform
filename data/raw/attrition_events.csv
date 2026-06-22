@@ -1,0 +1,112 @@
+attrition_date,employee_id,department_name,job_title,job_level,city,state,country,attrition_type,attrition_reason,final_salary,tenure_months
+2024-02-13,EMP00002,Legal,Software Engineer,Associate,Gurugram,Haryana,India,Voluntary,Relocation,1022743.1,47
+2023-09-12,EMP00003,Finance,Customer Support Associate,Associate,Hyderabad,Telangana,India,Involuntary,Personal Reasons,383392.08,62
+2023-10-24,EMP00004,Marketing,Senior Software Engineer,Senior,Hyderabad,Telangana,India,Involuntary,Personal Reasons,1901820.31,44
+2023-06-27,EMP00005,Information Technology,Sales Executive,Associate,Hyderabad,Telangana,India,Voluntary,Role Misfit,558700.49,80
+2024-10-29,EMP00009,Marketing,Finance Manager,Manager,Bengaluru,Karnataka,India,Voluntary,Role Misfit,1072727.53,27
+2023-08-22,EMP00010,Information Technology,Operations Manager,Manager,Chennai,Tamil Nadu,India,Involuntary,Performance,1169337.12,77
+2024-08-18,EMP00012,Marketing,HR Manager,Manager,Delhi,Delhi,India,Voluntary,Personal Reasons,1217606.59,68
+2023-10-03,EMP00015,Marketing,Data Engineer,Senior,Pune,Maharashtra,India,Voluntary,Personal Reasons,1878721.88,93
+2022-04-20,EMP00016,Human Resources,Finance Manager,Manager,Mumbai,Maharashtra,India,Involuntary,Career Growth,1652818.6,34
+2023-09-18,EMP00019,Customer Support,HR Manager,Manager,Hyderabad,Telangana,India,Voluntary,Relocation,1136659.89,34
+2023-11-02,EMP00029,Marketing,HR Executive,Associate,Pune,Maharashtra,India,Voluntary,Higher Studies,500855.11,22
+2024-06-04,EMP00043,Operations,Operations Manager,Manager,Hyderabad,Telangana,India,Voluntary,Career Growth,1451162.16,2
+2024-01-21,EMP00050,Legal,Software Engineer,Associate,Chennai,Tamil Nadu,India,Involuntary,Higher Studies,1018325.05,80
+2023-03-29,EMP00052,Sales,Finance Manager,Manager,Chennai,Tamil Nadu,India,Involuntary,Career Growth,1523764.5,86
+2024-04-14,EMP00056,Operations,Data Engineer,Senior,Chennai,Tamil Nadu,India,Involuntary,Relocation,1656058.01,3
+2022-05-20,EMP00058,Information Technology,Operations Manager,Manager,Kolkata,West Bengal,India,Voluntary,Role Misfit,1591524.72,60
+2024-03-15,EMP00064,Legal,Operations Executive,Associate,Hyderabad,Telangana,India,Involuntary,Career Growth,459174.12,46
+2024-11-05,EMP00088,Data Analytics,Operations Manager,Manager,Chennai,Tamil Nadu,India,Involuntary,Performance,1108147.19,31
+2024-03-05,EMP00090,Legal,HR Manager,Manager,Bengaluru,Karnataka,India,Voluntary,Role Misfit,1215352.59,66
+2024-07-29,EMP00094,Sales,Operations Executive,Associate,Chennai,Tamil Nadu,India,Voluntary,Performance,565992.63,39
+2024-06-17,EMP00101,Customer Support,Marketing Specialist,Associate,Kolkata,West Bengal,India,Voluntary,Career Growth,520175.31,32
+2022-10-04,EMP00102,Customer Support,HR Manager,Manager,Pune,Maharashtra,India,Involuntary,Personal Reasons,1459519.61,43
+2023-04-27,EMP00120,Sales,Data Engineer,Senior,Delhi,Delhi,India,Voluntary,Career Growth,1853335.46,30
+2023-11-29,EMP00127,Finance,Data Engineer,Senior,Mumbai,Maharashtra,India,Involuntary,Relocation,1860140.6,55
+2024-08-28,EMP00135,Legal,Legal Associate,Associate,Gurugram,Haryana,India,Voluntary,Higher Studies,765528.86,11
+2023-02-09,EMP00145,Finance,Operations Manager,Manager,Mumbai,Maharashtra,India,Involuntary,Performance,1404587.94,4
+2024-03-09,EMP00148,Finance,Operations Executive,Associate,Gurugram,Haryana,India,Voluntary,Compensation,373992.39,86
+2024-12-15,EMP00152,Legal,HR Executive,Associate,Delhi,Delhi,India,Voluntary,Compensation,431981.12,32
+2022-11-03,EMP00154,Legal,Finance Manager,Manager,Chennai,Tamil Nadu,India,Involuntary,Performance,1272716.79,78
+2024-08-22,EMP00155,Finance,Legal Associate,Associate,Pune,Maharashtra,India,Voluntary,Career Growth,1052661.53,6
+2024-01-22,EMP00156,Customer Support,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,Voluntary,Relocation,598919.88,86
+2024-10-06,EMP00159,Sales,Software Engineer,Associate,Gurugram,Haryana,India,Voluntary,Performance,898431.2,77
+2024-12-17,EMP00160,Legal,Operations Executive,Associate,Hyderabad,Telangana,India,Involuntary,Career Growth,683341.68,90
+2024-03-28,EMP00170,Finance,Sales Manager,Manager,Chennai,Tamil Nadu,India,Voluntary,Higher Studies,1398884.73,60
+2023-12-24,EMP00174,Marketing,HR Manager,Manager,Gurugram,Haryana,India,Voluntary,Performance,1374865.54,15
+2023-11-08,EMP00189,Customer Support,Data Engineer,Senior,Pune,Maharashtra,India,Voluntary,Compensation,1255923.93,1
+2023-01-21,EMP00194,Human Resources,Data Analyst,Associate,Kolkata,West Bengal,India,Involuntary,Career Growth,990519.71,16
+2024-12-11,EMP00195,Finance,Senior Software Engineer,Senior,Hyderabad,Telangana,India,Involuntary,Relocation,1971501.37,105
+2024-06-28,EMP00204,Finance,Marketing Specialist,Associate,Chennai,Tamil Nadu,India,Involuntary,Role Misfit,760493.19,15
+2023-02-01,EMP00205,Customer Support,HR Executive,Associate,Bengaluru,Karnataka,India,Involuntary,Role Misfit,583554.61,81
+2023-06-16,EMP00218,Finance,Sales Executive,Associate,Bengaluru,Karnataka,India,Involuntary,Role Misfit,434806.85,7
+2022-12-22,EMP00220,Data Analytics,Operations Manager,Manager,Chennai,Tamil Nadu,India,Voluntary,Higher Studies,1248626.64,6
+2023-01-12,EMP00221,Sales,Data Engineer,Senior,Hyderabad,Telangana,India,Involuntary,Career Growth,1297433.87,45
+2024-05-31,EMP00230,Operations,Sales Executive,Associate,Kolkata,West Bengal,India,Voluntary,Role Misfit,803921.22,62
+2023-09-18,EMP00242,Data Analytics,Operations Executive,Associate,Kolkata,West Bengal,India,Involuntary,Role Misfit,489521.27,52
+2024-08-14,EMP00243,Sales,HR Manager,Manager,Chennai,Tamil Nadu,India,Involuntary,Performance,1568226.2,6
+2022-12-16,EMP00248,Sales,Marketing Specialist,Associate,Pune,Maharashtra,India,Voluntary,Role Misfit,504499.09,45
+2023-09-10,EMP00249,Operations,Legal Associate,Associate,Bengaluru,Karnataka,India,Voluntary,Compensation,1072776.38,87
+2022-04-12,EMP00251,Legal,Sales Executive,Associate,Kolkata,West Bengal,India,Involuntary,Higher Studies,607411.42,37
+2022-04-06,EMP00281,Legal,Legal Associate,Associate,Kolkata,West Bengal,India,Voluntary,Career Growth,1081689.97,40
+2023-05-17,EMP00304,Human Resources,HR Manager,Manager,Gurugram,Haryana,India,Involuntary,Relocation,1317847.19,34
+2022-11-04,EMP00307,Information Technology,Data Analyst,Associate,Delhi,Delhi,India,Involuntary,Personal Reasons,742115.66,63
+2023-11-14,EMP00308,Customer Support,Sales Manager,Manager,Hyderabad,Telangana,India,Voluntary,Relocation,1021940.57,61
+2024-09-27,EMP00315,Customer Support,Sales Manager,Manager,Kolkata,West Bengal,India,Voluntary,Role Misfit,1380930.66,54
+2022-11-28,EMP00327,Customer Support,Sales Executive,Associate,Gurugram,Haryana,India,Voluntary,Compensation,686219.63,67
+2024-01-02,EMP00329,Marketing,HR Manager,Manager,Hyderabad,Telangana,India,Involuntary,Higher Studies,1028131.16,6
+2023-08-25,EMP00331,Information Technology,Sales Executive,Associate,Bengaluru,Karnataka,India,Voluntary,Compensation,427163.09,19
+2024-10-20,EMP00334,Sales,HR Executive,Associate,Delhi,Delhi,India,Voluntary,Relocation,436601.09,101
+2023-03-13,EMP00353,Marketing,Legal Associate,Associate,Delhi,Delhi,India,Voluntary,Performance,1064076.29,73
+2024-05-15,EMP00355,Operations,Sales Manager,Manager,Kolkata,West Bengal,India,Involuntary,Role Misfit,1706933.65,16
+2023-05-26,EMP00361,Human Resources,Legal Associate,Associate,Pune,Maharashtra,India,Involuntary,Relocation,771892.68,53
+2022-12-01,EMP00373,Customer Support,Customer Support Associate,Associate,Delhi,Delhi,India,Voluntary,Relocation,325915.66,30
+2024-03-11,EMP00384,Human Resources,Finance Manager,Manager,Gurugram,Haryana,India,Involuntary,Compensation,1568925.92,6
+2023-02-16,EMP00386,Legal,Finance Manager,Manager,Mumbai,Maharashtra,India,Voluntary,Personal Reasons,1643117.4,25
+2024-07-25,EMP00395,Human Resources,Operations Manager,Manager,Kolkata,West Bengal,India,Involuntary,Career Growth,1436789.52,99
+2022-09-10,EMP00402,Marketing,Operations Executive,Associate,Chennai,Tamil Nadu,India,Involuntary,Compensation,484624.43,31
+2024-06-16,EMP00407,Finance,Customer Support Associate,Associate,Gurugram,Haryana,India,Voluntary,Relocation,379563.73,58
+2023-07-26,EMP00408,Sales,Operations Manager,Manager,Mumbai,Maharashtra,India,Involuntary,Relocation,1170155.97,81
+2022-12-06,EMP00409,Customer Support,Legal Associate,Associate,Chennai,Tamil Nadu,India,Voluntary,Role Misfit,825208.54,61
+2022-11-10,EMP00423,Information Technology,HR Executive,Associate,Chennai,Tamil Nadu,India,Voluntary,Role Misfit,410575.78,54
+2023-05-12,EMP00432,Legal,Customer Support Associate,Associate,Gurugram,Haryana,India,Voluntary,Relocation,537447.12,34
+2022-03-17,EMP00437,Operations,HR Executive,Associate,Bengaluru,Karnataka,India,Involuntary,Personal Reasons,607133.36,36
+2023-10-25,EMP00442,Sales,Software Engineer,Associate,Mumbai,Maharashtra,India,Voluntary,Career Growth,801770.19,43
+2024-05-19,EMP00445,Operations,Data Analyst,Associate,Chennai,Tamil Nadu,India,Involuntary,Role Misfit,854034.48,61
+2023-03-10,EMP00446,Data Analytics,Marketing Specialist,Associate,Kolkata,West Bengal,India,Involuntary,Higher Studies,628291.69,61
+2024-01-24,EMP00450,Finance,Data Engineer,Senior,Hyderabad,Telangana,India,Involuntary,Compensation,1867497.75,18
+2024-03-17,EMP00451,Human Resources,Customer Support Associate,Associate,Bengaluru,Karnataka,India,Involuntary,Relocation,402800.97,58
+2024-03-10,EMP00469,Sales,Senior Software Engineer,Senior,Gurugram,Haryana,India,Involuntary,Compensation,1294998.47,75
+2023-10-23,EMP00472,Customer Support,Operations Manager,Manager,Chennai,Tamil Nadu,India,Voluntary,Performance,979139.59,57
+2023-08-12,EMP00485,Information Technology,Data Engineer,Senior,Bengaluru,Karnataka,India,Voluntary,Performance,1254289.31,77
+2024-07-27,EMP00493,Information Technology,Sales Executive,Associate,Gurugram,Haryana,India,Involuntary,Role Misfit,659254.12,85
+2024-03-02,EMP00500,Marketing,Operations Manager,Manager,Hyderabad,Telangana,India,Voluntary,Higher Studies,1214170.45,39
+2024-12-25,EMP00502,Sales,HR Executive,Associate,Gurugram,Haryana,India,Voluntary,Compensation,361982.18,90
+2022-11-23,EMP00505,Marketing,Senior Software Engineer,Senior,Gurugram,Haryana,India,Involuntary,Role Misfit,2150308.28,54
+2022-07-02,EMP00510,Finance,Finance Manager,Manager,Hyderabad,Telangana,India,Voluntary,Personal Reasons,1668532.06,7
+2023-07-15,EMP00513,Operations,Data Engineer,Senior,Chennai,Tamil Nadu,India,Voluntary,Higher Studies,1016890.97,56
+2023-02-06,EMP00515,Sales,Sales Manager,Manager,Mumbai,Maharashtra,India,Involuntary,Compensation,1243272.22,46
+2023-12-04,EMP00519,Operations,Legal Associate,Associate,Bengaluru,Karnataka,India,Voluntary,Role Misfit,732472.78,49
+2023-11-21,EMP00521,Sales,HR Manager,Manager,Hyderabad,Telangana,India,Involuntary,Compensation,1566077.93,4
+2023-05-06,EMP00531,Information Technology,Operations Manager,Manager,Bengaluru,Karnataka,India,Voluntary,Role Misfit,1025401.63,6
+2023-09-28,EMP00534,Marketing,HR Manager,Manager,Delhi,Delhi,India,Involuntary,Role Misfit,1281045.04,87
+2024-10-02,EMP00536,Marketing,Customer Support Associate,Associate,Gurugram,Haryana,India,Voluntary,Role Misfit,566151.58,36
+2022-05-02,EMP00539,Data Analytics,Sales Manager,Manager,Bengaluru,Karnataka,India,Voluntary,Compensation,920201.43,12
+2023-10-10,EMP00541,Operations,Sales Manager,Manager,Pune,Maharashtra,India,Voluntary,Higher Studies,1752528.48,69
+2023-11-06,EMP00542,Customer Support,Financial Analyst,Associate,Hyderabad,Telangana,India,Voluntary,Higher Studies,499949.25,13
+2024-04-03,EMP00549,Legal,Data Analyst,Associate,Delhi,Delhi,India,Involuntary,Role Misfit,854574.42,88
+2024-04-03,EMP00552,Operations,Operations Manager,Manager,Hyderabad,Telangana,India,Voluntary,Compensation,1448651.89,62
+2024-10-13,EMP00553,Legal,Data Engineer,Senior,Delhi,Delhi,India,Involuntary,Compensation,1344356.3,56
+2023-05-13,EMP00560,Information Technology,HR Manager,Manager,Delhi,Delhi,India,Involuntary,Higher Studies,1368763.43,0
+2022-08-29,EMP00565,Customer Support,Operations Manager,Manager,Hyderabad,Telangana,India,Involuntary,Career Growth,1377116.27,29
+2024-09-25,EMP00568,Finance,Sales Executive,Associate,Bengaluru,Karnataka,India,Voluntary,Personal Reasons,544445.86,14
+2022-09-12,EMP00581,Information Technology,HR Executive,Associate,Hyderabad,Telangana,India,Involuntary,Higher Studies,601691.51,27
+2023-09-17,EMP00600,Sales,Software Engineer,Associate,Delhi,Delhi,India,Voluntary,Personal Reasons,1112089.21,10
+2022-09-07,EMP00602,Legal,HR Executive,Associate,Bengaluru,Karnataka,India,Involuntary,Compensation,430758.54,60
+2022-04-30,EMP00604,Customer Support,Operations Executive,Associate,Pune,Maharashtra,India,Involuntary,Personal Reasons,687418.52,8
+2023-07-11,EMP00606,Finance,Operations Manager,Manager,Hyderabad,Telangana,India,Voluntary,Relocation,1073013.53,39
+2022-11-23,EMP00610,Finance,Data Analyst,Associate,Hyderabad,Telangana,India,Involuntary,Personal Reasons,790538.51,45
+2023-08-27,EMP00613,Data Analytics,Senior Software Engineer,Senior,Gurugram,Haryana,India,Involuntary,Higher Studies,1221352.83,75
+2022-09-14,EMP00619,Sales,Senior Software Engineer,Senior,Chennai,Tamil Nadu,India,Involuntary,Relocation,1310464.13,60
+2023-12-13,EMP00636,Finance,Customer Support Associate,Associate,Hyderabad,Telangana,India,Voluntary,Compensation,578595.95,37
+2023-08-25,EMP00644,Information Technology,Senior Software Engineer,Senior,Kolkata,West Bengal,India,Involuntary,Higher Studies,1640463.42,88
